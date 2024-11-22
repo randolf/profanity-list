@@ -2478,6 +2478,10 @@
         "match": "horseshit|horse-shit|horse shit"
       },
       {
+        "id": "meecrob",
+        "match": "pile of meecrob"
+      },
+      {
         "id": "piece-of-shit",
         "match": "piece of shit|pieces of shit"
       },
